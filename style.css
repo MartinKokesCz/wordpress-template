@@ -1,0 +1,10 @@
+/*
+Theme Name: Martin Kokeš template
+Theme URI: https://www.martinkokes.cz
+Author: Martin Kokeš
+Description: Toto je moje první šablona we Vordpressu
+Text Domain: martinkokes
+*/
+body {
+  background-color: red;
+}
